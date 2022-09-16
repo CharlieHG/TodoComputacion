@@ -1,0 +1,7 @@
+{
+  "name": "TodoComputacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
